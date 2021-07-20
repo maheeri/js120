@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fraction.js": "github:infusion/Fraction.js",
+    "readline-sync": "^1.4.10",
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.22.0",
+    "eslint-cli": "^1.1.1"
+  }
+}
